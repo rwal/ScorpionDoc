@@ -1,4 +1,4 @@
 ScorpionDoc
 ===========
 
-Scorpion Documentation repository
+Scorpion Documentation Repository
